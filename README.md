@@ -1,0 +1,1 @@
+This program is used to count blue microplastic beads in an image. Please put your images in the images folder and run the program in MATLAB
